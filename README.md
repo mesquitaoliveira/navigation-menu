@@ -15,7 +15,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/mesquitaoliveira/#"
+  <img src="https://github.com/mesquitaoliveira/navigation-menu/blob/master/ezgif-4-98b617ab593a.gif"
     alt="screenshot" width="100%">
 </p>
 
